@@ -31,9 +31,8 @@ Esta aplicación forma parte de un desafío realizado proporcionado por AluraLat
 3. Ingresa el monto a convertir.
 4. Obtiene el resultado de la conversión.
 
-
-## 3. Licencia
+## Licencia
 Este proyecto está licenciado bajo la Licencia MIT
  [Licencia MIT](https://opensource.org/licenses/MIT).
-## 4. Contacto
+## Contacto
 Si tienes preguntas o sugerencias, contáctame por correo electrónico: cristian14cr@gmail.com
